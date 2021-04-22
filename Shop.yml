@@ -1,0 +1,587 @@
+# Shop name can not contain formatting codes, '/' and ' '
+ร้านอาหาร:
+  Options:
+    title: ร้านอาหาร
+    lore: ''
+    page: 1
+    permission: ''
+  '0':
+    mat: APPLE
+    value: 0.42
+    median: 33569
+    stock: 33569
+  '1':
+    mat: CARROT
+    value: 0.32
+    median: 36994
+    stock: 36994
+  '3':
+    mat: MELON_SLICE
+    value: 0.07
+    median: 64980
+    stock: 64980
+  '4':
+    mat: POTATO
+    value: 0.34
+    median: 36011
+    stock: 36011
+  '5':
+    mat: DRIED_KELP
+    value: 0.63
+    median: 10000
+    stock: 10000
+  '6':
+    mat: PUFFERFISH
+    value: 0.25
+    median: 40000
+    stock: 40000
+  '7':
+    mat: TROPICAL_FISH
+    value: 0.63
+    median: 10000
+    stock: 10000
+  '8':
+    mat: SALMON
+    value: 0.63
+    median: 10000
+    stock: 10000
+  '9':
+    mat: COOKED_RABBIT
+    value: 0.39
+    median: 34389
+    stock: 34389
+  '10':
+    mat: COOKED_PORKCHOP
+    value: 0.34
+    median: 36011
+    stock: 36011
+  '11':
+    mat: PUMPKIN_PIE
+    value: 0.43
+    median: 33152
+    stock: 33152
+  '12':
+    mat: COOKED_MUTTON
+    value: 0.38
+    median: 34789
+    stock: 34789
+  '13':
+    mat: MUSHROOM_STEW
+    value: 0.57
+    median: 29885
+    stock: 29885
+  '14':
+    mat: RABBIT_STEW
+    value: 1.47
+    median: 21516
+    stock: 21516
+  '16':
+    mat: BAKED_POTATO
+    value: 0.39
+    median: 34389
+    stock: 34389
+  '17':
+    mat: COOKED_CHICKEN
+    value: 0.34
+    median: 36105
+    stock: 36105
+  '18':
+    mat: COOKED_COD
+    value: 0.63
+    median: 10000
+    stock: 10000
+  '19':
+    mat: BEETROOT_SOUP
+    value: 5.68
+    median: 13410
+    stock: 13410
+  '20':
+    mat: BREAD
+    value: 0.59
+    median: 29661
+    stock: 29661
+  '15':
+    mat: COOKED_BEEF
+    value: 0.39
+    median: 34389
+    stock: 34389
+  '2':
+    mat: MELON
+    value: 0.59
+    median: 29661
+    stock: 29661
+ร้านขายบล็อกก่อสร้าง:
+  Options:
+    title: ร้านขายบล็อกก่อสร้าง
+    lore: ''
+    page: 1
+    permission: ''
+  '0':
+    mat: DIRT
+    value: 0.45
+    median: 52897
+    stock: 52897
+    tradeType: BuyOnly
+  '1':
+    mat: GRASS_BLOCK
+    value: 0.89
+    median: 25698
+    stock: 25698
+  '2':
+    mat: GRASS_PATH
+    value: 2.5
+    median: 10000
+    stock: 10000
+  '3':
+    mat: PODZOL
+    value: 0.95
+    median: 25092
+    stock: 25092
+  '4':
+    mat: GRAVEL
+    value: 0.09
+    median: 57761
+    stock: 57761
+  '5':
+    mat: SAND
+    value: 0.42
+    median: 33569
+    stock: 33569
+  '6':
+    mat: SANDSTONE
+    value: 1.68
+    median: 20555
+    stock: 20555
+  '7':
+    mat: RED_SAND
+    value: 0.42
+    median: 33569
+    stock: 33569
+  '9':
+    mat: INFESTED_COBBLESTONE
+    value: 0.63
+    median: 10000
+    stock: 10000
+  '10':
+    mat: STONE
+    value: 0.1
+    median: 55614
+    stock: 55614
+  '11':
+    mat: DIORITE
+    value: 0.02
+    median: 32562
+    stock: 32562
+  '12':
+    mat: GRANITE
+    value: 0.87
+    median: 25931
+    stock: 25931
+  '13':
+    mat: MOSSY_COBBLESTONE
+    value: 0.37
+    median: 35122
+    stock: 35122
+  '14':
+    mat: INFESTED_STONE_BRICKS
+    value: 2.5
+    median: 10000
+    stock: 10000
+  '15':
+    mat: MOSSY_STONE_BRICKS
+    value: 0.42
+    median: 33498
+    stock: 33498
+  '16':
+    mat: TERRACOTTA
+    value: 0.33
+    median: 36589
+    stock: 36589
+  '17':
+    mat: ANDESITE
+    value: 0.28
+    median: 38687
+    stock: 38687
+  '18':
+    mat: OAK_PLANKS
+    value: 0.12
+    median: 51716
+    stock: 51716
+  '19':
+    mat: SPRUCE_PLANKS
+    value: 0.12
+    median: 51716
+    stock: 51716
+  '20':
+    mat: BIRCH_PLANKS
+    value: 0.12
+    median: 51716
+    stock: 51716
+  '21':
+    mat: JUNGLE_PLANKS
+    value: 0.12
+    median: 51716
+    stock: 51716
+  '22':
+    mat: DARK_OAK_PLANKS
+    value: 0.12
+    median: 51716
+    stock: 51716
+  '23':
+    mat: ACACIA_PLANKS
+    value: 0.12
+    median: 51716
+    stock: 51716
+  '24':
+    mat: OAK_LOG
+    value: 0.38
+    median: 34707
+    stock: 34707
+  '25':
+    mat: SPRUCE_LOG
+    value: 0.38
+    median: 34707
+    stock: 34707
+  '26':
+    mat: BIRCH_LOG
+    value: 0.38
+    median: 34707
+    stock: 34707
+  '27':
+    mat: JUNGLE_LOG
+    value: 0.38
+    median: 34707
+    stock: 34707
+  '28':
+    mat: ACACIA_LOG
+    value: 0.38
+    median: 34707
+    stock: 34707
+  '29':
+    mat: DARK_OAK_LOG
+    value: 0.38
+    median: 34707
+    stock: 34707
+  '30':
+    mat: STRIPPED_OAK_LOG
+    value: 2.5
+    median: 10000
+    stock: 10000
+  '31':
+    mat: STRIPPED_OAK_WOOD
+    value: 2.5
+    median: 10000
+    stock: 10000
+  '32':
+    mat: STRIPPED_JUNGLE_LOG
+    value: 2.5
+    median: 10000
+    stock: 10000
+  '33':
+    mat: STRIPPED_JUNGLE_WOOD
+    value: 2.5
+    median: 10000
+    stock: 10000
+  '8':
+    mat: RED_SANDSTONE
+    value: 1.68
+    median: 20555
+    stock: 20555
+ร้านขายของเบ็ดเตล็ด:
+  Options:
+    title: ร้านขายของเบ็ดเตล็ด
+    lore: ''
+    page: 1
+    permission: ''
+  '0':
+    mat: BUCKET
+    value: 11.42
+    median: 10500
+    stock: 10500
+  '1':
+    mat: FISHING_ROD
+    value: 0.59
+    median: 29661
+    stock: 29661
+  '2':
+    mat: CARROT_ON_A_STICK
+    value: 0.53
+    median: 30851
+    stock: 30851
+  '3':
+    mat: BOWL
+    value: 0.1
+    median: 55123
+    stock: 55123
+  '4':
+    mat: SADDLE
+    value: 1.25
+    median: 22773
+    stock: 22773
+  '5':
+    mat: SHEARS
+    value: 7.62
+    median: 12096
+    stock: 12096
+  '6':
+    mat: LEAD
+    value: 0.55
+    median: 30450
+    stock: 30450
+  '7':
+    mat: CLOCK
+    value: 60.38
+    median: 5861
+    stock: 5861
+  '8':
+    mat: FLINT_AND_STEEL
+    value: 4.09
+    median: 15046
+    stock: 15046
+  '9':
+    mat: GLASS_BOTTLE
+    value: 0.47
+    median: 32130
+    stock: 32130
+  '10':
+    mat: MINECART
+    value: 19.01
+    median: 8784
+    stock: 8784
+  '11':
+    mat: FIREWORK_ROCKET
+    value: 0.92
+    median: 25424
+    stock: 25424
+  '12':
+    mat: IRON_HORSE_ARMOR
+    value: 23.75
+    median: 8125
+    stock: 8125
+  '13':
+    mat: ENCHANTING_TABLE
+    value: 82.17
+    median: 5262
+    stock: 5262
+  '14':
+    mat: BEACON
+    value: 26.83
+    median: 7786
+    stock: 7786
+  '15':
+    mat: BREWING_STAND
+    value: 0.8
+    median: 26623
+    stock: 26623
+  '16':
+    mat: CHAINMAIL_HELMET
+    value: 18.13
+    median: 8931
+    stock: 8931
+  '17':
+    mat: ENDER_EYE
+    value: 0.84
+    median: 26199
+    stock: 26199
+ร้านขายบล๊อกตกแต่ง:
+  Options:
+    title: ร้านขายบล๊อกตกแต่ง
+    lore: ''
+    page: 1
+    permission: ''
+  '0':
+    mat: BLUE_ORCHID
+    value: 0.42
+    median: 33569
+    stock: 33569
+  '1':
+    mat: FLOWER_POT
+    value: 0.36
+    median: 35467
+    stock: 35467
+  '2':
+    mat: JACK_O_LANTERN
+    value: 0.23
+    median: 41342
+    stock: 41342
+  '3':
+    mat: LILY_PAD
+    value: 0.56
+    median: 30115
+    stock: 30115
+  '4':
+    mat: ITEM_FRAME
+    value: 10.03
+    median: 10989
+    stock: 10989
+  '5':
+    mat: OXEYE_DAISY
+    value: 0.5
+    median: 31383
+    stock: 31383
+  '6':
+    mat: ROSE_BUSH
+    value: 0.37
+    median: 35122
+    stock: 35122
+  '7':
+    mat: DEAD_BUSH
+    value: 0.09
+    median: 57761
+    stock: 57761
+  '8':
+    mat: AZURE_BLUET
+    value: 0.42
+    median: 33569
+    stock: 33569
+  '9':
+    mat: VINE
+    value: 0.28
+    median: 38090
+    stock: 38090
+  '10':
+    mat: PEONY
+    value: 0.44
+    median: 32884
+    stock: 32884
+  '11':
+    mat: FERN
+    value: 0.09
+    median: 57761
+    stock: 57761
+  '12':
+    mat: WHITE_CONCRETE
+    value: 0.62
+    median: 29148
+    stock: 29148
+  '13':
+    mat: WHITE_CONCRETE_POWDER
+    value: 0.28
+    median: 38444
+    stock: 38444
+  '14':
+    mat: SUNFLOWER
+    value: 0.42
+    median: 33569
+    stock: 33569
+  '15':
+    mat: POPPY
+    value: 0.39
+    median: 34311
+    stock: 34311
+  '16':
+    mat: BOOKSHELF
+    value: 29.64
+    median: 7519
+    stock: 7519
+ร้านมอนเตอร์:
+  Options:
+    title: ร้านมอนเตอร์
+    lore: ''
+    page: 2
+    permission: ''
+  '0':
+    mat: SPIDER_EYE
+    value: 0.27
+    median: 39322
+    stock: 39322
+  '1':
+    mat: ENDER_PEARL
+    value: 0.53
+    median: 30851
+    stock: 30851
+  '2':
+    mat: INK_SAC
+    value: 0.37
+    median: 35122
+    stock: 35122
+  '3':
+    mat: STRING
+    value: 0.19
+    median: 44237
+    stock: 44237
+  '4':
+    mat: FEATHER
+    value: 0.32
+    median: 36994
+    stock: 36994
+  '5':
+    mat: BONE
+    value: 0.56
+    median: 30115
+    stock: 30115
+  '6':
+    mat: ARROW
+    value: 0.19
+    median: 44445
+    stock: 44445
+  '7':
+    mat: BLAZE_POWDER
+    value: 0.33
+    median: 36490
+    stock: 36490
+  '8':
+    mat: MAGMA_CREAM
+    value: 0.67
+    median: 28439
+    stock: 28439
+  '9':
+    mat: PRISMARINE_CRYSTALS
+    value: 0.63
+    median: 29025
+    stock: 29025
+  '10':
+    mat: GOLD_NUGGET
+    value: 1.68
+    median: 20555
+    stock: 20555
+  '11':
+    mat: SHULKER_SHELL
+    value: 6.25
+    median: 12965
+    stock: 12965
+  '12':
+    mat: QUARTZ
+    value: 0.39
+    median: 34311
+    stock: 34311
+  '13':
+    mat: LEATHER
+    value: 9.5
+    median: 11197
+    stock: 11197
+  '14':
+    mat: SUGAR_CANE
+    value: 0.04
+    median: 75965
+    stock: 75965
+  '15':
+    mat: EGG
+    value: 0.25
+    median: 40000
+    stock: 40000
+  '16':
+    mat: DIAMOND
+    value: 31.25
+    median: 7381
+    stock: 7381
+  '17':
+    mat: IRON_INGOT
+    value: 3.8
+    median: 15435
+    stock: 15435
+  '18':
+    mat: GOLD_INGOT
+    value: 15.05
+    median: 9532
+    stock: 9532
+  '19':
+    mat: ROTTEN_FLESH
+    value: 0.03
+    median: 89548
+    stock: 89548
+  '20':
+    mat: GUNPOWDER
+    value: 0.32
+    median: 36994
+    stock: 36994
