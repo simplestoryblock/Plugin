@@ -48,13 +48,13 @@ JSON.Hover.MaxRankSkillName=&6{0}&r
 JSON.Hover.AtSymbolSkills=&e@
 JSON.Hover.AtSymbolURL=&e@
 
-#This is the message sent to players when an ability is activated
+#นี่คือข้อความที่ส่งถึงผู้เล่นเมื่อเปิดใช้ความสามารถ
 JSON.Notification.SuperAbility={0}
 
 #These are the JSON Strings used for SubSkills
 JSON.Acrobatics.Roll.Interaction.Activated=Test &cRolled Test
-JSON.Acrobatics.SubSkill.Roll.Details.Tips=If you hold sneak while falling you can prevent up to twice the damage that you would normally take!
-Anvil.SingleItemStack=&cYou cannot salvage or repair item stacks that have more than one item, split the stack first.
+JSON.Acrobatics.SubSkill.Roll.Details.Tips=หากคุณย่อในขณะที่ล้มคุณสามารถป้องกันความเสียหายได้ถึงสองเท่าของความเสียหายที่คุณจะได้รับตามปกติ!
+Anvil.SingleItemStack=&cคุณไม่สามารถกอบกู้หรือซ่อมแซมกองไอเท็มที่มีมากกว่าหนึ่งไอเท็มได้ ให้แยกกองก่อน.
 
 #DO NOT USE COLOR CODES IN THE JSON KEYS
 #COLORS ARE DEFINED IN advanced.yml IF YOU WISH TO CHANGE THEM
@@ -161,11 +161,11 @@ Alchemy.SkillName=ALCHEMY
 #ARCHERY
 
 
-Archery.SubSkill.SkillShot.Name=Skill Shot
-Archery.SubSkill.SkillShot.Description=Increases damage done with bows
-Archery.SubSkill.SkillShot.Stat=Skill Shot Bonus Damage
-Archery.SubSkill.Daze.Name=Daze
-Archery.SubSkill.Daze.Description=Disorients foes and deals extra DMG
+Archery.SubSkill.SkillShot.Name=สกิลช็อต
+Archery.SubSkill.SkillShot.Description=เพิ่มความเสียหายด้วยธนู
+Archery.SubSkill.SkillShot.Stat=โบนัสความเสียหายจากการยิงสกิล
+Archery.SubSkill.Daze.Name=ความงุนงง
+Archery.SubSkill.Daze.Description=ทำให้ศัตรูสับสนและสร้างความเสียหายเพิ่มเติม
 Archery.SubSkill.Daze.Stat=Daze Chance
 Archery.SubSkill.ArrowRetrieval.Name=Arrow Retrieval
 Archery.SubSkill.ArrowRetrieval.Description=Chance to retrieve arrows from corpses
