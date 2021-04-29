@@ -734,18 +734,18 @@ Commands.Usage.Rate=rate
 Commands.Usage.Skill=skill
 Commands.Usage.SubSkill=subskill
 Commands.Usage.XP=xp
-Commands.Description.mmoinfo=Read details about a skill or mechanic.
-Commands.MmoInfo.Mystery=&7You haven't unlocked this skill yet, but when you do you will be able to read details about it here!
-Commands.MmoInfo.NoMatch=That subskill doesn't exist!
-Commands.MmoInfo.Header=&3-=[]=====[]&6 MMO Info &3[]=====[]=-
-Commands.MmoInfo.SubSkillHeader=&6Name:&e {0}
-Commands.MmoInfo.DetailsHeader=&3-=[]=====[]&a Details &3[]=====[]=-
+Commands.Description.mmoinfo=อ่านรายละเอียดเกี่ยวกับทักษะหรือช่าง
+Commands.MmoInfo.Mystery=&7คุณยังไม่ได้ปลดล็อคสกิลทักษะนี้ ถ้าต้องการสามารถอ่านรายละเอียดเพิ่มเติมได้ที่นี่!
+Commands.MmoInfo.NoMatch=ไม่มีตัวเสริมทักษะชนิดนี้!
+Commands.MmoInfo.Header=&3-=[]=====[]&6 ข้อมูล MMO &3[]=====[]=-
+Commands.MmoInfo.SubSkillHeader=&6ชื่อ:&e {0}
+Commands.MmoInfo.DetailsHeader=&3-=[]=====[]&a รายละเอียด &3[]=====[]=-
 Commands.MmoInfo.OldSkill=&7mcMMO skills are being converted into an improved modular skill system, unfortunately this skill has not been converted yet and lacks detailed stats. The new system will allow for faster release times for new mcMMO skills and greater flexibility with existing skills.
 Commands.MmoInfo.Mechanics=&3-=[]=====[]&6 Mechanics &3[]=====[]=-
 Commands.MmoInfo.Stats=STATS: {0}
 Commands.Mmodebug.Toggle=mcMMO Debug Mode is now &6{0}&7, use this command again to toggle. With debug mode true, you can punch blocks to print useful information used for support.
-mcMMO.NoInvites=&cYou have no invites at this time
-mcMMO.NoPermission=&4Insufficient permissions.
+mcMMO.NoInvites=&cคุณยังไม่มีคำเชิญในขณะนี้
+mcMMO.NoPermission=&4คุณไม่มีสิทธิ์ดำเนินการขั้นตอนนี้.
 mcMMO.NoSkillNote=&8If you don't have access to a skill it will not be shown here.
 ##party
 Party.Forbidden=[mcMMO] Parties not permitted on this world (See Permissions)
